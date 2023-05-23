@@ -23,3 +23,29 @@ ho avuto problemi irrisolvibili nalla aggiunta del file README.md quindi l'ho cr
 poi nell'aggiunta dei file java ho provato in tanti modi ad aggiungerli e mi dava sempre lo stesso errore
 
 ![Cattura](Cattura.PNG)
+
+
+# DESCRIZIONE DEL CODICE
+ci sono 4 classi principali
+
+1. test--> che è il main 
+nel main creo i vari account e faccio quello che chiede la traccia
+
+2. account --> che è la creazione di una persona
+faccio i costruttori delle informazioni che servono per creare i vari account 
+faccio i vari set e get dei dati 
+faccio il to string 
+
+3. Abbonati --> che è la HashMap
+faccio la HashMap
+
+4. Personal Trainer --> creazione di un personal trainer 
+faccio i costruttori delle informazioni che servono per creare il personal trainer  
+faccio i vari set e get dei dati 
+faccio il to string
+
+
+
+
+
+
