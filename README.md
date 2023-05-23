@@ -28,6 +28,7 @@ poi nell'aggiunta dei file java ho provato in tanti modi ad aggiungerli e mi dav
 # DESCRIZIONE DEL CODICE
 ci sono 4 classi principali
 
+![Cattura2](Cattura2.PNG)
 1. test--> che è il main 
 nel main creo i vari account e faccio quello che chiede la traccia
 
