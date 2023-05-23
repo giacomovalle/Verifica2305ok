@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Abbonati
+comment1.params=
+comment1.target=Abbonati()
+comment2.params=account
+comment2.target=void\ aggiungiAbbonati(Account)
+comment3.params=telefono
+comment3.target=void\ eliminaAbbonato(int)
+comment4.params=telefono
+comment4.target=Account\ cercaAbbonato(int)
+comment5.params=
+comment5.target=Account[]\ elencaSpedizioni()
+numComments=6

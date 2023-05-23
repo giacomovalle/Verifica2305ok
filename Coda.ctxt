@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Coda
+comment1.params=info
+comment1.target=Nodo(java.lang.Object)
+comment2.params=info
+comment2.target=void\ setInfo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getInfo()
+comment4.params=link
+comment4.target=void\ setLink(Nodo)
+comment5.params=
+comment5.target=Nodo\ getLink()
+comment6.params=
+comment6.target=Coda()
+comment7.params=info\ link
+comment7.target=Nodo\ creaNodo(java.lang.Object,\ Nodo)
+comment8.params=info
+comment8.target=void\ enqueue(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.Object\ dequeue()
+numComments=10
